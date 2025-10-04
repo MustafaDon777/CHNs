@@ -1,0 +1,288 @@
+[
+  {
+    "filename": "york_news.html",
+    "url": "https://www.york.cuny.edu/news",
+    "page_postfix": "?page_bf1fcfc0_fe36_412f_93a1_19e596b5d96c=",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "fade-enter-done",
+    "prefix": "https://www.york.cuny.edu"
+  },
+  {
+    "filename": "bmcc_news.html",
+    "url": "https://www.bmcc.cuny.edu/bmcc-news",
+    "page_postfix": "/",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "vc_pageable-slide-wrapper vc_clearfix",
+    "prefix": ""
+  },
+  {
+    "filename": "ccny_news.html",
+    "url": "https://www.ccny.cuny.edu/news/",
+    "page_postfix": "ccny-in-the-news?page=",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "listing-collection paragraph-type listing-collection-type",
+    "prefix": "https://www.ccny.cuny.edu"
+  },
+  {
+    "filename": "csi_news.html",
+    "url": "https://csitoday.com/",
+    "page_postfix": "/",
+    "pages_tuple": [
+      0,
+      1,
+      2
+    ],
+    "element_tag": "div",
+    "element_class": "container",
+    "prefix": ""
+  },
+  {
+    "filename": "guttman_news.html",
+    "url": "https://guttman.cuny.edu/category/news/",
+    "page_postfix": "page/",
+    "pages_tuple": [
+      1,
+      1,
+      4
+    ],
+    "element_tag": "div",
+    "element_class": "entries-wrap has-columns",
+    "prefix": ""
+  },
+  {
+    "filename": "hunter_news.html",
+    "url": "https://hunter.cuny.edu/wp-content/themes/codiac/ajax-get-news-grid-items.php?taxonomy=news-feed-cat&term=spotlight&source=%2Fnews%2F&exclude=&offset=",
+    "page_postfix": "/",
+    "pages_tuple": [
+      1,
+      24,
+      2
+    ],
+    "element_tag": "body",
+    "element_class": "",
+    "prefix": ""
+  },
+  {
+    "filename": "jjay_news.html",
+    "url": "https://www.jjay.cuny.edu/news-events",
+    "page_postfix": "https://www.jjay.cuny.edu",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "view-content",
+    "prefix": ""
+  },
+  {
+    "filename": "kbcc_news.html",
+    "url": "https://www.kbcc.cuny.edu/news/index.html?page=",
+    "page_postfix": "/",
+    "pages_tuple": [
+      1,
+      1,
+      5
+    ],
+    "element_tag": "div",
+    "element_class": "row card g-0",
+    "prefix": ""
+  },
+  {
+    "filename": "law_news.html",
+    "url": "https://www.law.cuny.edu/newsroom-articles/",
+    "page_postfix": "page/",
+    "pages_tuple": [
+      1,
+      1,
+      2
+    ],
+    "element_tag": "div",
+    "element_class": "wpb_column vc_column_container vc_col-sm-9",
+    "prefix": ""
+  },
+  {
+    "filename": "lehman_news.html",
+    "url": "https://www.lehman.cuny.edu/news",
+    "page_postfix": "/",
+    "pages_tuple": [
+      1,
+      1,
+      4
+    ],
+    "element_tag": "div",
+    "element_class": "col-md-9 col-sm-12",
+    "prefix": "https://lehman.edu"
+  },
+  {
+    "filename": "macaulay_news.html",
+    "url": "https://macaulay.cuny.edu/news-events",
+    "page_postfix": "/",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "sub-feature-double__wrap row",
+    "prefix": ""
+  },
+  {
+    "filename": "mec_news.html",
+    "url": "https://www.mec.cuny.edu/category/campus-news",
+    "page_postfix": "/page",
+    "pages_tuple": [
+      1,
+      1,
+      4
+    ],
+    "element_tag": "div",
+    "element_class": "container",
+    "prefix": ""
+  },
+  {
+    "filename": "qcc_news.html",
+    "url": "https://www.qcc.cuny.edu/news/",
+    "page_postfix": "https://www.qcc.cuny.edu/",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "col-md-9",
+    "prefix": "https://www.qcc.cuny.edu/news"
+  },
+  {
+    "filename": "sps_news.html",
+    "url": "https://sps.cuny.edu/about/news/",
+    "page_postfix": "?page=",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "view-content",
+    "prefix": "https://sps.cuny.edu"
+  },
+  {
+    "filename": "laguardia_news.html",
+    "url": "https://www.laguardia.edu/news/results/?_sft_lg_news_section=news,&sf_paged=",
+    "page_postfix": "",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "elementor-widget-container",
+    "prefix": ""
+  },
+  {
+    "filename": "citytech.html",
+    "url": "https://www.citytech.cuny.edu/news/",
+    "page_postfix": "#page",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "news-section",
+    "prefix": "https://www.citytech.cuny.edu/"
+  },
+  {
+    "filename": "hostos.html",
+    "url": "https://www.hostos.cuny.edu/News",
+    "page_postfix": "",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "event-box",
+    "prefix": "https://www.hostos.cuny.edu"
+  },
+  {
+    "filename": "slu.html",
+    "url": "https://slublog.org/",
+    "page_postfix": "page/",
+    "pages_tuple": [
+      1,
+      1,
+      5
+    ],
+    "element_tag": "div",
+    "element_class": "wp-block-query has-global-padding is-layout-constrained wp-block-query-is-layout-constrained",
+    "prefix": ""
+  },
+  {
+    "filename": "sph.html",
+    "url": "https://sph.cuny.edu/life-at-sph/news/",
+    "page_postfix": "",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "ajax-load-more-wrap infinite classic alm-0 alm-is-loaded",
+    "prefix": ""
+  },
+  {
+    "filename": "gc.html",
+    "url": "https://www.gc.cuny.edu/news",
+    "page_postfix": "?page=",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "container gutter-bottom news-listing__container",
+    "prefix": "https://www.gc.cuny.edu/"
+  },
+  {
+    "filename": "cngsj.html",
+    "url": "https://www.journalism.cuny.edu/category/news/",
+    "page_postfix": "page/",
+    "pages_tuple": [
+      1,
+      1,
+      3
+    ],
+    "element_tag": "div",
+    "element_class": "content-wrap--blog",
+    "prefix": ""
+  },
+  {
+    "filename": "bc.html",
+    "url": "https://www.brooklyn.edu/news-events/",
+    "page_postfix": "",
+    "pages_tuple": [
+      1,
+      1,
+      1
+    ],
+    "element_tag": "div",
+    "element_class": "row listing",
+    "prefix": ""
+  }
+]

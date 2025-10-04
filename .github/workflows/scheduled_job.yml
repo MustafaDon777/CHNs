@@ -1,0 +1,43 @@
+# .github/workflows/scheduled_job.yml
+name: Scheduled Hello World Job
+
+# 
+# ⏰ Schedule the workflow to run
+# This cron expression '0 */6 * * *' means: 
+# "At minute 0 past every 6th hour." (e.g., 00:00, 06:00, 12:00, 18:00 UTC)
+#
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  run_scheduled_script:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Check out the repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # This line is crucial for the "git push" step to work
+          token: ${{ secrets.GITHUB_TOKEN }} 
+
+      # 2. Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 3. Install dependencies from requirements.txt
+      - name: Install dependencies
+        run: pip install -r req.txt
+        
+      # 4. Run the Python script
+      - name: Execute Python Script
+        run: python src/main.py
+
+      # 5. Commit and push the changes (the new output.json file)
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🤖 Scheduled Action: Update output.json'
+          file_pattern: 'output.json'
