@@ -26,6 +26,10 @@ jobs:
         with:
           # This token allows pushing back to the repo (e.g., output.json changes)
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 🧪 (Optional) Debug: Show the full directory structure
+      - name: Debug - List directory contents
+        run: ls -R
 
       # 2. 🐍 Set up Python environment
       - name: Set up Python
