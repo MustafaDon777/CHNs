@@ -10,7 +10,7 @@ name: Scheduled Hello World Job
 #
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/30 * * * *'
 
   # 🔘 Optional: Allow manual triggering from the GitHub UI
   workflow_dispatch:
@@ -26,7 +26,7 @@ jobs:
         with:
           # This token allows pushing back to the repo (e.g., output.json changes)
           token: ${{ secrets.GITHUB_TOKEN }}
-          
+
       # 🧪 (Optional) Debug: Show the full directory structure
       - name: Debug - List directory contents
         run: ls -R
